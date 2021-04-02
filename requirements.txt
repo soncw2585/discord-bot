@@ -1,10 +1,10 @@
-discord
-asyncio
-random
-string
-requests
-BeautifulSoup4
-urllib.request
-datetime
-os
-sys
+import discord
+import asyncio
+import random
+import string
+import requests
+from bs4 import BeautifulSoup
+import urllib.request
+import datetime
+import os
+import sys
