@@ -2,5 +2,6 @@ discord
 asyncio
 requests
 BeautifulSoup4
-request
 datetime
+selenium
+configparser
