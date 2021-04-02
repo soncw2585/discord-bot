@@ -14,7 +14,6 @@ import sys
 
 client = discord.Client()
 
-token = "ODEyNTc0OTY1NzY4NjUwODIz.YDCvaA.eg3ycIIghX3AsgBFZ6KSpeTipEo"
 
 @client.event
 async def on_ready():
@@ -180,5 +179,5 @@ async def on_message(message):
 
 
 
-
-client.run(token)
+access_token = os.environ["BOT_TOKEN"]
+client.run(access_token)
