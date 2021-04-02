@@ -2,5 +2,5 @@ discord
 asyncio
 requests
 BeautifulSoup4
-urllib.request
+request
 datetime
