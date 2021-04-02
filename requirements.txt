@@ -1,9 +1,6 @@
 discord
 asyncio
-string
 requests
 BeautifulSoup4
 urllib.request
 datetime
-os
-sys
